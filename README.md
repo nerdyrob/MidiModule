@@ -15,6 +15,9 @@ This is my first PCB, the midi circuit was based on this MiniDexed project from 
 * 1× MIDI DIN connector
 * 3× Header pins
 
+## Prototype
+![Alt text describing the image](images/Irl.png)
+
 ## Breadboard
 ![Alt text describing the image](images/Breadboard.png)
 
