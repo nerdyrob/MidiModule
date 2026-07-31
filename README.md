@@ -19,7 +19,7 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 ## Breadboard
 ![Alt text describing the image](images/Breadboard.png)
 
-## Breadboard
+## Schematic
 ![Alt text describing the image](images/Schematic.png)
 
 ## PCB
