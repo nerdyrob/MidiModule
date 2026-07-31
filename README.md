@@ -1,10 +1,11 @@
 # MidiModule
-A midi input module for use with Raspberry Pi or other 3.3v boards.
 
+### Simple 3.3V Breadboard MIDI Input Module
 
-This is my first PCB, the midi circuit was based on this MiniDexed project from Kevin
-  
-  - https://diyelectromusic.com/2025/09/27/minidexed-raspberry-pi-io-board-v2-build-guide
+Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other 3.3V microcontrollers.
+
+* **Fritzing Source:** `MidiModule.fzz`
+* **Gerber Files:** Included in the attached `.zip` file for direct upload to PCB manufacturers (e.g., JLCPCB).
 
 ## Parts
 * 1× 470Ω resistor
@@ -23,3 +24,7 @@ This is my first PCB, the midi circuit was based on this MiniDexed project from 
 
 ## PCB
 ![Alt text describing the image](images/Pcb.png)
+
+## Credit
+This circuit was based on this MiniDexed project from Kevin
+  - https://diyelectromusic.com/2025/09/27/minidexed-raspberry-pi-io-board-v2-build-guide
