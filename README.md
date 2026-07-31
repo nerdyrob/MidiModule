@@ -26,5 +26,6 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 ![Alt text describing the image](images/Pcb.png)
 
 ## Credit
-This circuit was based on this MiniDexed project from Kevin
-  - https://diyelectromusic.com/2025/09/27/minidexed-raspberry-pi-io-board-v2-build-guide
+Circuit was based on this MiniDexed project from Kevin
+
+* https://diyelectromusic.com/2025/09/27/minidexed-raspberry-pi-io-board-v2-build-guide
