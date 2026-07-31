@@ -25,7 +25,7 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 ## PCB
 ![Alt text describing the image](images/Pcb.png)
 
-[!NOTE]
+> [!NOTE]
 > Keep in mind that MIDI DIN socket footprint specs vary by manufacturer. I needed to drill out the PCB mounting holes to 1 mm to fit my components. Note also that the two front support pins are wider on some socket variants.
 
 ## Prototype
