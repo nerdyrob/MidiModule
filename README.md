@@ -6,18 +6,17 @@ This is my first PCB, the midi circuit was based on this MiniDexed project from 
   
   - https://diyelectromusic.com/2025/09/27/minidexed-raspberry-pi-io-board-v2-build-guide
 
-Parts
+## Parts
+* 1× 470Ω resistor
+* 1× 220Ω resistor
+* 1× 1N4148 diode
+* 1× 100nF capacitor
+* 1× H11L1 optocoupler
+* 1× MIDI DIN connector
+* 3× Header pins
 
-  470Ω   resistor
-  220Ω   resistor
-  1N4148 diode
-  100nf  capacitor
-  H11L1  optocoupler
-  Midi din connector
-  3 header pins
-
-Breadboard
+## Breadboard
 ![Alt text describing the image](images/Breadboard.png)
 
-PCB
+## PCB
 ![Alt text describing the image](images/Pcb.png)
