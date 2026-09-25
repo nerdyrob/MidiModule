@@ -2,13 +2,18 @@
 
 ### Simple 3.3V Breadboard MIDI Input Module
 
-Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other 3.3V microcontrollers.
+Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other 3.3V microcontrollers. 
 
-* **Fritzing Source:** `MidiModule.fzz`
+* **Fritzing Source:**
+* `MidiModule-V1.fzz` initial compact design
+* `MidiModule-V2.fzz` new layout, added some SMD components and mounting holes.                  
 * **Gerber Files:** Included in the attached `.zip` file for direct upload to PCB manufacturers (e.g., JLCPCB).
 
 ## Parts
-* 1× 470Ω resistor     (R2)
+Note: V1 layout, all components are though-hole. 
+      V2 layout, R1, R2 use SMD size 1206 and C1 uses SMD size 0805
+
+* 1× 470Ω resistor     (R2) 
 * 1× 220Ω resistor     (R1)
 * 1× 1N4148 diode      (D1)
 * 1× 100nF capacitor   (C1)
@@ -23,12 +28,20 @@ Designed in [Fritzing](https://fritzing.org) for use with Raspberry Pi and other
 ![Alt text describing the image](images/Schematic.png)
 
 ## PCB
+### V1
 ![Alt text describing the image](images/Pcb.png)
 
+### V1
+![Alt text describing the image](images/Pcb-V2.png)
+
 > [!NOTE]
-> MIDI DIN socket footprint specs vary by manufacturer. I had to drill out the PCB mounting holes to 1 mm to fit my component. Additionally, the two front support pins are wider on some socket variants so look to find the narrow version.
+> MIDI DIN socket footprint specs vary by manufacturer. I had to drill out the PCB mounting holes to 1 mm to fit my component. Additionally, the two front support pins are wider on some socket variants so look to find the narrow version. The V2 layout adds more tolerance so this should be less of an concern. 
 
 ## Prototype
+### V1
+![Alt text describing the image](images/Irl.png)
+
+### V2
 ![Alt text describing the image](images/Irl.png)
 
 ## Credit
