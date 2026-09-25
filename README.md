@@ -28,20 +28,20 @@ Note: V1 layout, all components are though-hole.
 ![Alt text describing the image](images/Schematic.png)
 
 ## PCB
-### V1
+#### V1
 ![Alt text describing the image](images/Pcb.png)
 
-### V1
+#### V2
 ![Alt text describing the image](images/Pcb-V2.png)
 
 > [!NOTE]
 > MIDI DIN socket footprint specs vary by manufacturer. I had to drill out the PCB mounting holes to 1 mm to fit my component. Additionally, the two front support pins are wider on some socket variants so look to find the narrow version. The V2 layout adds more tolerance so this should be less of an concern. 
 
 ## Prototype
-### V1
+#### V1
 ![Alt text describing the image](images/Irl.png)
 
-### V2
+#### V2
 ![Alt text describing the image](images/Irl.png)
 
 ## Credit
