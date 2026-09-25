@@ -42,7 +42,7 @@ Note: V1 layout, all components are though-hole.
 ![Alt text describing the image](images/Irl.png)
 
 #### V2
-![Alt text describing the image](images/Irl.png)
+![Alt text describing the image](images/Irl-V2.png)
 
 ## Credit
 The circuit was based on this MiniDexed project from Kevin
